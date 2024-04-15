@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Apr 15 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.js ([@devarxify](https://github.com/devarxify))
+
+#### Authors: 1
+
+- arxify ([@devarxify](https://github.com/devarxify))
+
+---
+
 # v0.0.1 (Mon Apr 15 2024)
 
 :tada: This release contains work from a new contributor! :tada:
